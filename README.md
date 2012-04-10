@@ -1,23 +1,15 @@
+Showdown
+========
 
-NOTE -- Showdown on GitHub
-==========================
+This is a fork of the Showdown library for my own personal use.
 
-Please note that I, Corey, am not the author of Showdown. Rather, I found it
-some time back at <http://attacklab.net/showdown/> and wanted to see it
-available on GitHub.
+Showdown has had many authors. Take a look at the credits for more info.
 
-All credit and praise for authoring this library should go to John Fraser.
+I take no credit or responsibility for this library.
 
-Oh, and John Gruber of course.
+**Live Preview**  --  http://jsfiddle.net/arzynik/Fyysf/
 
-That said, I have recently see some GitHub forking activity and a pull
-request. As such, I will endeavor to ordain myself as a maintainer of
-Showdown, at least as it exists on GitHub.
 
-Apologies for any confusion or perceived misinformation.
-
-Cheers,  
-Corey
 
 
 Showdown -- A JavaScript port of Markdown
